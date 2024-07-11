@@ -81,7 +81,7 @@ components.html(
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>Container Centralizado</title>
         <style>
-        @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
+         @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap');
        .container {
             text-align: center;
             margin: 10px auto; /* Reduce margin to 10px */
@@ -151,9 +151,9 @@ components.html(
     </head>
     <body>
         <div class="copyrights">
-            <p>&#169; Proteção Fácil All Rights Reserved</p>
+            <p>&#169; Proteção Fácil All Rights Reserved</p>            
         </div>
     </body>
     </html>
-    """
+"""
 )
